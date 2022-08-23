@@ -4,6 +4,3 @@ The financial dashboard was created in Python. The development was done with Jup
 
 The <a href="https://github.com/pplonski/dashboard-python-jupyter-notebook" target="_blank">link</a> to the code repository.
 
-The article on <a href="https://mljar.com/blog/dashboard-python-jupyter-notebook" target="_blank">how to build a dashboard in Python with Jupyter Notebook</a>.
-
-## Dashboard
